@@ -7,7 +7,7 @@
     <title>LAB1</title>
 </head>
 <body style="background-color: #DEA057; background-size: 100%"><center>
-    <form action="resultado.php" method="POST">
+    <form action="resul.php" method="POST">
     <div>
         <h1>LABORATORIO JARED PINEDA</h1>
         Nombre:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="Nombre" name="Nombre"><br><br>

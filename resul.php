@@ -17,7 +17,5 @@
         echo "<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$resultado</h1>";
     }
     ?>
-          
-        
 </body>
 </html>
